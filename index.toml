@@ -295,6 +295,11 @@ hash = "b0c37ca9826781a6bf1373ae02a141b4202037515eb071ec2327410771de6ea5"
 metafile = true
 
 [[files]]
+file = "mods/kambrik.pw.toml"
+hash = "8a5e76693f22343bb2306011ad8018337971256a6f3b25cb03680b1d7d7470c1"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
