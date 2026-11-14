@@ -1,0 +1,8 @@
+#Send colonies the player is not a member of too (drawn dimmer).
+showAllColonies = true
+#Send huts of colonies the player is not a member of.
+showOtherColoniesBuildings = false
+#Seconds between diff syncs.
+# Default: 5
+# Range: 1 ~ 300
+syncIntervalSeconds = 5

@@ -1,0 +1,72 @@
+enabled = true
+showOnMinimap = true
+showOnWorldMap = true
+#Draw only colony borders, no fill.
+outlineOnly = false
+#Percent.
+# Default: 35
+# Range: 0 ~ 100
+fillOpacityOwn = 35
+#Percent.
+# Default: 15
+# Range: 0 ~ 100
+fillOpacityOther = 15
+#Percent.
+# Default: 85
+# Range: 0 ~ 100
+borderOpacityOwn = 85
+#Percent.
+# Default: 50
+# Range: 0 ~ 100
+borderOpacityOther = 50
+
+[buildings]
+	#Master switch for hut footprints.
+	showBuildings = true
+	buildingsOnMinimap = true
+	buildingsOnWorldMap = true
+	#Label text for huts.
+	#Allowed Values: NONE, NAME, NAME_LEVEL
+	buildingLabels = "NAME_LEVEL"
+	#Only show huts of colonies you are a member of.
+	onlyMyColonies = true
+	#0 also shows placed but unbuilt huts.
+	# Default: 0
+	# Range: 0 ~ 10
+	minBuildingLevel = 0
+	#Allowed Values: COLONY, TYPE
+	buildingColorMode = "COLONY"
+	#Percent.
+	# Default: 45
+	# Range: 0 ~ 100
+	buildingFillOpacity = 45
+	#Percent.
+	# Default: 95
+	# Range: 0 ~ 100
+	buildingBorderOpacity = 95
+	#Building type ids to skip, e.g. minecolonies:postbox or just postbox.
+	hiddenBuildingTypes = []
+	#Hut item icon at each footprint's centre.
+	buildingIcons = true
+	iconsOnMinimap = true
+	iconsOnWorldMap = true
+	#ALWAYS draws the label under the icon; HOVER uses the info display line.
+	#Allowed Values: ALWAYS, HOVER, NONE
+	labelModeMinimap = "ALWAYS"
+	#ALWAYS draws the label under the icon; HOVER only when the mouse is over it.
+	#Allowed Values: ALWAYS, HOVER, NONE
+	labelModeWorldMap = "ALWAYS"
+	#Hide world map labels (not icons) below this zoom (map pixels per block).
+	# Default: 1.0
+	# Range: 0.0 ~ 64.0
+	worldMapLabelMinZoom = 1.0
+	#Size of hut icons (and their labels).
+	# Default: 1.0
+	# Range: 0.25 ~ 4.0
+	iconScale = 1.0
+	#Black rounded badge with a white outline behind hut icons.
+	iconBackground = true
+	#Label text size, relative to the icon.
+	# Default: 1.0
+	# Range: 0.25 ~ 4.0
+	labelScale = 1.0

@@ -1,0 +1,204 @@
+# Not Enough Revives server settings.
+# Changes apply after /notenoughrevives reload or a server restart.
+# Knockdowns can be switched off per world with /gamerule doKnockdowns false.
+# Using /kill on a player knocks them down, and using it again while they are down kills them.
+
+[knockdown]
+# What happens when a player takes a hit that would kill them.
+
+# Seconds a knocked down player can wait for help before bleeding out.
+# Range: 5 to 3600. Default: 60
+bleedOutSeconds = 60
+
+# Pause the bleed out timer while someone is reviving the player.
+# true or false. Default: true
+pauseWhileReviving = true
+
+# Movement speed while knocked down, as a fraction of normal speed.
+# Range: 0.0 to 1.0. Default: 0.3
+crawlSpeed = 0.3
+
+# How many times a player can be knocked down before the next deadly hit kills them for real. 0 means no limit.
+# Range: 0 to 100. Default: 0
+maxDowns = 0
+
+# Seconds after a knockdown before the down count starts over. 0 means it only starts over when the player dies.
+# Range: 0 to 86400. Default: 600
+downsResetSeconds = 600
+
+# Let knocked down players hold the give up key to bleed out early.
+# true or false. Default: true
+allowGiveUp = true
+
+# Seconds the give up key has to be held.
+# Range: 0.0 to 10.0. Default: 1.5
+giveUpHoldSeconds = 1.5
+
+# What happens when a knocked down player leaves. KEEP keeps them knocked down for when they return, DIE makes them die.
+# One of: KEEP, DIE. Default: "KEEP"
+onLogout = "KEEP"
+
+# Knock down players in creative mode too, so /kill and the void show a knockdown instead of an instant death.
+# true or false. Default: true
+creativePlayers = true
+
+[revive]
+# How players bring each other back.
+
+# Seconds of holding use on a knocked down player needed to revive them.
+# Range: 1 to 120. Default: 5
+reviveSeconds = 5
+
+# Health given back on revive, as a fraction of max health.
+# Range: 0.05 to 1.0. Default: 0.3
+reviveHealth = 0.3
+
+# Furthest distance in blocks a reviver can be from the knocked down player.
+# Range: 1.0 to 16.0. Default: 3.5
+reviveDistance = 3.5
+
+# Seconds a revived player is protected from damage while they get back up.
+# Range: 0 to 30. Default: 2
+protectionSeconds = 2
+
+# Item a knocked down player can hold to revive themselves. Leave empty to turn this off.
+# Default: "not_enough_revives:cross_of_revival"
+selfReviveItem = "not_enough_revives:cross_of_revival"
+
+# Item taken from the reviver's inventory for each revive. Leave empty for free revives.
+# Default: ""
+reviveCostItem = ""
+
+# Announce revives in chat.
+# true or false. Default: true
+announceRevives = true
+
+[whileKnocked]
+# What knocked down players can do, and what can still happen to them.
+
+# Allow breaking blocks.
+# true or false. Default: true
+allowMining = true
+
+# Block breaking speed, as a fraction of normal speed.
+# Range: 0.0 to 1.0. Default: 0.15
+miningSpeed = 0.15
+
+# Allow attacking.
+# true or false. Default: false
+allowAttacking = false
+
+# Allow using items and blocks.
+# true or false. Default: false
+allowItemUse = false
+
+# Let other players pick up and carry knocked down players with mods like Carry On. Mobs and anything else can never grab them.
+# true or false. Default: true
+allowCarrying = true
+
+# Seconds taken off the bleed out timer for each heart of damage a knocked down player takes. 0 makes them immune to damage.
+# Range: 0.0 to 60.0. Default: 0.0
+damageSpeedsBleedOut = 0.0
+
+# A hit from another player finishes off a knocked down player. Handy for PvP servers.
+# true or false. Default: false
+playersCanFinish = false
+
+[mobs]
+# How mobs, including modded ones like the titans from Danny's Attack on Titan, treat knocked down players.
+
+# Mobs stop targeting, grabbing, eating and attacking knocked down players.
+# true or false. Default: true
+ignoreKnocked = true
+
+# How far in blocks around a knocked down player mobs are calmed down.
+# Range: 8.0 to 128.0. Default: 48.0
+calmRadius = 48.0
+
+[helpCalls]
+# Calling for help while knocked down.
+
+# Seconds between help calls.
+# Range: 0 to 600. Default: 5
+cooldownSeconds = 5
+
+# Seconds a player glows after calling for help.
+# Range: 0 to 600. Default: 10
+glowSeconds = 10
+
+# Glow colour for players who have not picked their own.
+# One of: WHITE, GOLD, YELLOW, AQUA, BLUE, LIGHT_PURPLE, RED, GREEN, GRAY, DARK_AQUA, DARK_BLUE, DARK_PURPLE, DARK_RED, DARK_GREEN, DARK_GRAY, BLACK. Default: "WHITE"
+defaultGlowColour = "WHITE"
+
+# Let players pick their own glow colour.
+# true or false. Default: true
+allowCustomGlowColour = true
+
+# How far away in blocks help calls and revive sounds can be heard.
+# Range: 4.0 to 256.0. Default: 50.0
+soundRange = 50.0
+
+# Announce help calls in chat.
+# true or false. Default: true
+announceInChat = true
+
+[styles]
+# The Angelic, Demonic, Robotic and Vanilla looks for knockdown effects, rescue gear, buoys and menus.
+
+# Let each player pick their own style.
+# true or false. Default: true
+allowStyles = true
+
+# Style everyone uses when allowStyles is off.
+# One of: ANGELIC, DEMONIC, ROBOTIC, VANILLA. Default: "VANILLA"
+defaultStyle = "VANILLA"
+
+# Let players recolour their rescue gear, buoy, particles, trail and marker.
+# true or false. Default: true
+allowCustomColours = true
+
+[voidRescue]
+# Saving knocked down players who fall into the void.
+
+# Carry knocked down players who fall into the void back to safe ground.
+# true or false. Default: true
+enabled = true
+
+# Blocks below the bottom of the world a player falls before being rescued.
+# Range: 1 to 64. Default: 8
+triggerDepth = 8
+
+# How far in blocks to search for safe ground around the fall.
+# Range: 0 to 32. Default: 8
+searchRadius = 8
+
+# Ticks before the same player can be rescued again. 20 ticks is one second.
+# Range: 0 to 1200. Default: 80
+cooldownTicks = 80
+
+[customSounds]
+# Players uploading their own help call and revive sounds.
+
+# Let players upload their own sounds.
+# true or false. Default: true
+enabled = true
+
+# Let players change the pitch of their sounds.
+# true or false. Default: true
+allowPitchChange = true
+
+# Largest sound file players can upload, in kilobytes.
+# Range: 16 to 8192. Default: 1024
+maxFileSizeKB = 1024
+
+# Longest sound players can upload, in seconds. Longer sounds are cut short.
+# Range: 1 to 60. Default: 15
+maxSeconds = 15
+
+# How many variations each sound can have. One is picked at random each time.
+# Range: 1 to 5. Default: 5
+maxVariations = 5
+
+# Seconds a player has to wait between uploads.
+# Range: 0 to 300. Default: 3
+uploadCooldownSeconds = 3

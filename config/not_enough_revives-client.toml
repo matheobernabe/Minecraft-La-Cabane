@@ -1,0 +1,140 @@
+# Not Enough Revives client settings.
+# Most of these can also be changed in game from the Revive Settings screen (K by default).
+
+[sounds]
+# Your own help call and revive sounds.
+
+# Pitch of your help call sound.
+# Range: 0.5 to 2.0. Default: 1.0
+helpCallPitch = 1.0
+
+# Pitch of your revive sound.
+# Range: 0.5 to 2.0. Default: 1.0
+revivalPitch = 1.0
+
+[visuals]
+# What you see while players are knocked down.
+
+# Look of your knockdown effects, rescue gear and menus. Other players see your pick too.
+# One of: ANGELIC, DEMONIC, ROBOTIC, VANILLA. Default: "VANILLA"
+style = "VANILLA"
+
+# Glow colour other players see when you call for help.
+# One of: WHITE, GOLD, YELLOW, AQUA, BLUE, LIGHT_PURPLE, RED, GREEN, GRAY, DARK_AQUA, DARK_BLUE, DARK_PURPLE, DARK_RED, DARK_GREEN, DARK_GRAY, BLACK. Default: "WHITE"
+glowColour = "WHITE"
+
+# Show the icon, label and revive bar above knocked down players.
+# true or false. Default: true
+showMarkers = true
+
+# How far away in blocks you can see those markers.
+# Range: 8 to 128. Default: 64
+markerRange = 64
+
+# Show the knocked down and reviving overlays.
+# true or false. Default: true
+showHud = true
+
+# Tint the edges of your screen while you are knocked down.
+# true or false. Default: true
+showVignette = true
+
+# Play the fall, crawl, float and revive animations. Turn off if another animation mod clashes.
+# true or false. Default: true
+animations = true
+
+# Leave a trail on the ground behind knocked down players as they crawl and bleed.
+# true or false. Default: true
+crawlTrails = true
+
+[colours.angelic]
+# Your colours for the Angelic style. Other players see them too.
+
+# Colour of your angel wings.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+gear = "default"
+
+# Colour of your buoy.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+buoy = "default"
+
+# Colour of your particles.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+particles = "default"
+
+# Colour of your crawl trail.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+trail = "default"
+
+# Colour of your marker and revive bar above you.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+marker = "default"
+
+[colours.demonic]
+# Your colours for the Demonic style. Other players see them too.
+
+# Colour of your demon wings.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+gear = "default"
+
+# Colour of your buoy.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+buoy = "default"
+
+# Colour of your particles.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+particles = "default"
+
+# Colour of your crawl trail.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+trail = "default"
+
+# Colour of your marker and revive bar above you.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+marker = "default"
+
+[colours.robotic]
+# Your colours for the Robotic style. Other players see them too.
+
+# Colour of your jetpack lights and flames.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+gear = "default"
+
+# Colour of your buoy lights.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+buoy = "default"
+
+# Colour of your particles.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+particles = "default"
+
+# Colour of your crawl trail.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+trail = "default"
+
+# Colour of your marker and revive bar above you.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+marker = "default"
+
+[colours.vanilla]
+# Your colours for the Vanilla style. Other players see them too.
+
+# Colour of your balloon.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+gear = "default"
+
+# Colour of your buoy.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+buoy = "default"
+
+# Colour of your particles.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+particles = "default"
+
+# Colour of your crawl trail.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+trail = "default"
+
+# Colour of your marker and revive bar above you.
+# "default" or a colour code like "#4FA3FF". Default: "default"
+marker = "default"
