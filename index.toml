@@ -1298,6 +1298,11 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "emotes/emotecraft.pw.toml"
+hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "f52db67c560c6f4824f8bba1ac5efc3601c6699f13593277ae64a1143db9050b"
 metafile = true
@@ -1365,6 +1370,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "ba3b9990bc44bedb8eacbe11b2beffb7457cc6ddd854e78fcaf8d73d8f2578db"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true
 
 [[files]]
