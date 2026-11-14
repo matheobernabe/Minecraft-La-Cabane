@@ -1,0 +1,13 @@
+name = "MapColonies | Minecolonies Addon For Xaero's Minimap"
+filename = "mapcolonies-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b42c0ec80bf9b92df140c57e73a0d51a78d7a94b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9353768
+project-id = 1758818

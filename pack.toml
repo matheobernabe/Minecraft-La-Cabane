@@ -1,0 +1,13 @@
+name = "LaCabane"
+author = "RuderWest"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "121accaee3f2d044e771e7c8704f4d911acfa039342b3d7b71d2835dc8a2e3ef"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.266"

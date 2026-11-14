@@ -1,0 +1,5 @@
+*.zip
+*.mrpack
+FAILED.txt
+.DS_Store
+Thumbs.db

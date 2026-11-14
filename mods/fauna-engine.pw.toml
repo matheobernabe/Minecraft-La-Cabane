@@ -1,0 +1,13 @@
+name = "FAUNA Engine"
+filename = "faunaengine-1.2-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78cc3f3eb6d7388a4ff71aad9660646c274d99c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9559453
+project-id = 1766276

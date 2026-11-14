@@ -1,0 +1,13 @@
+name = "Not Enough Revives"
+filename = "not-enough-revives-neoforge-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iF2k7LzC/versions/RBESJSQz/not-enough-revives-neoforge-1.21.1-2.1.0.jar"
+hash-format = "sha512"
+hash = "3e8a82b57cd1ddf0bec01eb1d887c56853c7f63e1504ea709904c1d798b8aa523a85116fb3176d988f65605cdd9ee0e07003a45afb74d76ccfd46bf893a531cf"
+
+[update]
+[update.modrinth]
+mod-id = "iF2k7LzC"
+version = "RBESJSQz"

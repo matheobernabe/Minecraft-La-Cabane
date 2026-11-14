@@ -1,0 +1,13 @@
+name = "Cobblemon Biome Expanded Spawns"
+filename = "CR-Biome-Expanded-Spawns-6.3.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b2ece7fdee2f1df44a55e6f59732a75ff4d25e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9457727
+project-id = 1333295

@@ -1,0 +1,13 @@
+name = "Graves OG - Gravestones & Corpse Recovery"
+filename = "gravesog-neoforge-1.21.1-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a05b7489e3d1ad331bd2222fe16c20487820dd93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9564203
+project-id = 1769109
