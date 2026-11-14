@@ -95,6 +95,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
 file = "mods/cobbledollars.pw.toml"
 hash = "d06294493a8ca46bac5fffdcfcd0b7e76585c2795bfa4616f2e167a623e32566"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "b63999aa63a273098f42e22d8d5018c8617b8e2babdffc752d9aad3eefaaa76d"
 metafile = true
 
 [[files]]
@@ -385,6 +395,11 @@ hash = "b14b3d7f88512f23bccca8e2f133e52e84307679b6eba4e818ce13e8f87e503d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "8fb510d47dafc024cd08c0e80bfb59e192c354cb5db74c07dd146ee79fe8b885"
+metafile = true
+
+[[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
 metafile = true
@@ -412,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "d94791108548d174758d587440c656f1a56884083fa3151bf90b515126482435"
 metafile = true
 
 [[files]]
@@ -457,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "c150b2a60128cad4bd32ea0d3106502241ad234f1ad355ad3b98d0ac82324589"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "437c739ab4a159273a34ec98a193fe7e26ff0f6d393a6a798b84402f10348646"
 metafile = true
 
 [[files]]
@@ -547,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "b9d7258b37e3a1124fc69ccae407afd363c5355fd08d4acf78e185e857008ab9"
 metafile = true
 
 [[files]]
