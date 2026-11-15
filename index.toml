@@ -10,7 +10,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "daa1c633b98f727020e41da780f7f585d9e09e4df70c2ff4760f8ce83ac6e833"
+hash = "1367dacf70bf3395db347c7a8b324cf441904bcd70f618917cde76cfdd2016d4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -409,8 +409,24 @@ file = "config/ars_nouveau/search_index/_1.si"
 hash = "96dcb828a566b838fc0cffb6bc2b6da7e3252b848b8a9e0b03299a7ddb359e2a"
 
 [[files]]
+file = "config/ars_nouveau/search_index/_4.cfe"
+hash = "ab2734dd1d4ed13050f67b6608894b11bab1948d787d5cba2436b692114493eb"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_4.cfs"
+hash = "163fc96763aef5d2e5aea71d9828bfa73dfe41a796e5db2026e2cf48b2fcc9be"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_4.si"
+hash = "bb3bc6eb8c7cc63f855faea4cae45362747159541d5a9800971442721eb2cea8"
+
+[[files]]
 file = "config/ars_nouveau/search_index/segments_2"
 hash = "6057c17d6cfcc17e19c518b98b9c90559d1fbd8c14d6b453ad71e949866c4ef1"
+
+[[files]]
+file = "config/ars_nouveau/search_index/segments_5"
+hash = "d847be023990d010c11caee5998f990d002e690416640c48d6ad3bab2be63e36"
 
 [[files]]
 file = "config/ars_nouveau/search_index/write.lock"
@@ -490,7 +506,15 @@ hash = "eeead79d2c51bca73a1174aeadd2cef9c12feea8ae8083121c15e47b0563ebc0"
 
 [[files]]
 file = "config/bountiful/errors.log"
-hash = "50ae1042c321e03ae7acb0acb42c3f416f632f24ea69160d40c5c963db258ae8"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "61413d3baf24cd7106e2be4c2f62b0ede74258051daf0ed2a157ad7b3a73d1aa"
 
 [[files]]
 file = "config/cobbledollars/client.json"
@@ -794,7 +818,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "2037a3a77cf4a3077eb67b9cf3ab6258250e219550db2cf9d73c1651d752288a"
+hash = "8b826f102f915c4c4921d63385d8da3fdc8abc4d7e740928f16c6116575b2b82"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1964,12 +1988,16 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "56bf88e4b25d39f3710bc17fb6d26d8902309dab9f8d1afd0a398668c8bafd87"
+hash = "0056901124806a5f2ba06a815fdbb12602c38fe8d7ea79430f53af16dbf96cdd"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "6d9842b52f988e6f4567f3dd8fe45aff43cf8003dccd0868d9f926d578d320e8"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "f06ad501d9f7e7faab27004013cca3f96b1b075685d46abb3700464a2711acda"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
