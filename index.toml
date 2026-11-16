@@ -501,6 +501,10 @@ file = "config/bookofdragons-common.toml"
 hash = "c61205d6b09c60d7bc6dc6a0da5d21b2960b9aa130d5d566d5d0842b98b189a1"
 
 [[files]]
+file = "config/botanypots.json"
+hash = "4c2c8d447ff50ed3de32aaff6d16fc4cdbca4b4d9cb090b0c9795be1c327f124"
+
+[[files]]
 file = "config/bountiful/bountiful.json"
 hash = "eeead79d2c51bca73a1174aeadd2cef9c12feea8ae8083121c15e47b0563ebc0"
 
@@ -713,6 +717,14 @@ file = "config/curios-server.toml"
 hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
 
 [[files]]
+file = "config/doggytalents-client.toml"
+hash = "34d3638d4c6a45a36c9d09ca570905ab47a9f70f80a559a35f2eaa0b5758d0fc"
+
+[[files]]
+file = "config/doggytalents-dog_custom_skins_client.toml"
+hash = "8707588249f22525d1af5a1627f4c62b6a98b6df109e02f0906d8d8624670790"
+
+[[files]]
 file = "config/emotecraft.json"
 hash = "8cfb42df2afa3b8aed623ab5ad0310181693831f55f092ebcef87b299ccc03e6"
 
@@ -794,7 +806,7 @@ hash = "49414280350d38397bb99dc9f721e07e8d3d17920094455f08ae10079d460d9a"
 
 [[files]]
 file = "config/fml.toml"
-hash = "1ac1fd9694773ef1ec8af42c9cc8a908a1b618fa6fb6031c27305383e97f70c7"
+hash = "3787d7aacb14baa39b1a4b3cf57a3fbd4973804e0b7c9cd51f74aa4a7cd936f1"
 
 [[files]]
 file = "config/ftblibrary-client.snbt"
@@ -813,12 +825,16 @@ file = "config/gravesog.properties"
 hash = "60dd6c749a2661e6d7116c439d5af91aa6aafcb4b90430d48c3d8e740dc4a9d0"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "8b826f102f915c4c4921d63385d8da3fdc8abc4d7e740928f16c6116575b2b82"
+hash = "18261b704b4c0c17c33c476e3f29034fc60e61e1f4fdfc7caf53b9f1e3c45a12"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1115,7 +1131,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "a1a9af4c6041368c5f6566d8947ccf6b0590c676d23bdf3d7412546672183e90"
+hash = "a6cc6767695407b760c810cf6971a04f73c48c2e852f7fc890028937f3bcf362"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1250,8 +1266,12 @@ file = "config/watut-server.toml"
 hash = "77c32650cc543180e5d03cf079956b631da769ef0c845cc75f34d95718be91f3"
 
 [[files]]
-file = "config/waystones-common.toml"
+file = "config/waystones-common-1.toml.bak"
 hash = "1cb1eb1a55745482d940d1c2368c6f1496ab879c0ba84db077d2f80ca67394d2"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "f0ccd381fd61238423adcc798591e95e017a55ff14267050addaa0e944ecf9bf"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
@@ -2015,6 +2035,10 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3fc0679f7dc2d4fdddcdec636586bc367fee08c2c1e31544d2ad60eebb58a1bb"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
