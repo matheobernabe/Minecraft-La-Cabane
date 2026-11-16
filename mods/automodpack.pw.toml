@@ -1,0 +1,13 @@
+name = "AutoModpack"
+filename = "automodpack-5.0.0-rc.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k68glP2e/versions/s49Ma0rZ/automodpack-5.0.0-rc.7.jar"
+hash-format = "sha512"
+hash = "29aeedfac5b4dec1f62d4ccba574c34aaccbe0f5b7be81c4a046c8c59b77eff9207c99d4dda372df753bb19fe1bc5479d8cc9186f6737b83c97cae92445f9ff1"
+
+[update]
+[update.modrinth]
+mod-id = "k68glP2e"
+version = "s49Ma0rZ"
