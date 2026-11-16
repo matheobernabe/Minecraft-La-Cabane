@@ -1832,6 +1832,11 @@ hash = "6f9502735fcac7a35468358e2aa0fd9333b12df885db3325c472d298ce315a72"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "e092c14ff1fb54dbe0348f76b45b5b721adc99e55ec60f15aa61d37523e4ab15"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
 metafile = true
