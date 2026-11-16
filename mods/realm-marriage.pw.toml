@@ -1,0 +1,13 @@
+name = "Realm Marriage"
+filename = "realm-marriage-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ac5e168f4107bf6180d077270bf25061b5f7fda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9271744
+project-id = 1756703
