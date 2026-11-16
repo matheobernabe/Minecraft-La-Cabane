@@ -5,6 +5,18 @@ file = "add-mods.ps1"
 hash = "3cb8d6d368bc4b1e11f8196890602f87923d872db45a665da38b85480c1e15c1"
 
 [[files]]
+file = "automodpack/client.conf"
+hash = "8c778b5eec0ca15d3f327f3556dc96c5033653c8cbdaddeaa66f008566708ef5"
+
+[[files]]
+file = "automodpack/client/selected.json"
+hash = "2159c46ed08e5bdc3a8c2ece80443fa48f4c91076877e6812d5a0ebca5a36858"
+
+[[files]]
+file = "automodpack/client/selections.json"
+hash = "d0a6e18b3b1f69fd78d8e32130407e9031ee66049d0ae4f77ff7715931d9c879"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
