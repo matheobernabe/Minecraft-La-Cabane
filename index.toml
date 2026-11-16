@@ -1327,6 +1327,11 @@ hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
 metafile = true
 
 [[files]]
+file = "fast-leaf-decay.pw.toml"
+hash = "f853183f8181bea559135ed17e22eb62658c23603a89d95908eb036680a437dc"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "f52db67c560c6f4824f8bba1ac5efc3601c6699f13593277ae64a1143db9050b"
 metafile = true
@@ -1612,6 +1617,11 @@ hash = "738224cd2c3b8ca3265e444094711e5fd7ae81689a7df77b7c59b3beff43d700"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "01e76397dcdfc1977583465a0d1f9a7264068243aa2546fbf85eabb2d6d52afd"
 metafile = true
@@ -1639,6 +1649,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
 
 [[files]]
