@@ -2124,17 +2124,9 @@ hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "3fc0679f7dc2d4fdddcdec636586bc367fee08c2c1e31544d2ad60eebb58a1bb"
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "6d9842b52f988e6f4567f3dd8fe45aff43cf8003dccd0868d9f926d578d320e8"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "f06ad501d9f7e7faab27004013cca3f96b1b075685d46abb3700464a2711acda"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
