@@ -1604,6 +1604,11 @@ hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
 metafile = true
 
 [[files]]
+file = "mods/eternal-nether.pw.toml"
+hash = "63c42204d3507e63b104d6fbacf7b516bf80361e8299fcc8a72eeef9faf93dcc"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "1d219a061f5f85f6a33f009f8095cc4ac2db7cf92cd3be7e1b8bd75e613d82f9"
 metafile = true
@@ -1881,6 +1886,11 @@ metafile = true
 [[files]]
 file = "mods/productivebees.pw.toml"
 hash = "7aa8bf129e51bda25386e18ebcd0db7eae278e95227406e8101a320cacf2f9b6"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "611f589f0874ce5db4a2241421ce4453f9efb5bedf57e3f24c039a16a0e604c5"
 metafile = true
 
 [[files]]
