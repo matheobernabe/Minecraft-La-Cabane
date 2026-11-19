@@ -1375,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9412ae80a3b8633c4b8507402610c4d8ad3e27809a27a9a76263d16fa7347b2e"
+hash = "21347d7f9c96cebacb7238dbef2670e2906a11572606016c8184e9485947dacc"
 metafile = true
 
 [[files]]
@@ -1889,6 +1889,11 @@ hash = "d935e4ce118d15c88b10809df85e801f0e9577855f870f3c28e5a0bd5e7fecf6"
 metafile = true
 
 [[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "f969597932d45d17d74d8d7e7e4c6836332c6bb66bee19ad1ab8430efbb6f593"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -1931,6 +1936,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/scannable.pw.toml"
+hash = "491cc18a30525d1ad651951bb4be7e7125a6265463c83b660deedfb52399a6ee"
 metafile = true
 
 [[files]]
