@@ -21,14 +21,6 @@ file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "1367dacf70bf3395db347c7a8b324cf441904bcd70f618917cde76cfdd2016d4"
-
-[[files]]
-file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
 file = "config/addictives-common.toml"
 hash = "dd0bf4ee1eac6ffb8d8f539d02bde5b96e61f1d62c22f336d0a39b00a8583de4"
 
@@ -837,72 +829,8 @@ file = "config/gravesog.properties"
 hash = "60dd6c749a2661e6d7116c439d5af91aa6aafcb4b90430d48c3d8e740dc4a9d0"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
-
-[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
-
-[[files]]
-file = "config/iris.properties"
-hash = "18261b704b4c0c17c33c476e3f29034fc60e61e1f4fdfc7caf53b9f1e3c45a12"
-
-[[files]]
-file = "config/jade/hide-blocks.json"
-hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
-
-[[files]]
-file = "config/jade/hide-entities.json"
-hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
-
-[[files]]
-file = "config/jade/jade.json"
-hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
-
-[[files]]
-file = "config/jade/plugins.json"
-hash = "65fd18413982d0a1d7f67f5ec6bb9d15326e83f0bebde7d7fad3d0b3d70a6e5d"
-
-[[files]]
-file = "config/jade/sort-order.json"
-hash = "bf71ac50cd8b0b91a8ef0dc728349197a2b01e9db36b2b70a48098643f462a50"
-
-[[files]]
-file = "config/jei/blacklist.json"
-hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
-
-[[files]]
-file = "config/jei/client/default/jei-client.ini"
-hash = "cdadcf027b25930a10d7aa888883e78d0e3b1b46fb75b7982022130d9bb75d54"
-
-[[files]]
-file = "config/jei/client/default/jei-colors.ini"
-hash = "c6d4ae48280627d04a7ae2b6d3db65e71d73670a72732f5aed9f4cfaac3837c7"
-
-[[files]]
-file = "config/jei/client/default/jei-debug.ini"
-hash = "376cc883cac002d07792f209f7bc1915ea7fa8822effc67734f1589bab9bb806"
-
-[[files]]
-file = "config/jei/client/default/jei-mod-id-format.ini"
-hash = "2e5119684366f75bc8a6df871381c6094a812cadd0d5ed0547405b5f1353f9e1"
-
-[[files]]
-file = "config/jei/client/ingredient-list-mod-sort-order.ini"
-hash = "3816c57131461d0f712708b3e2b5ed171ceb9fcfc4964fce4cc0396966c3ad76"
-
-[[files]]
-file = "config/jei/client/ingredient-list-type-sort-order.ini"
-hash = "798ede60fa56e26ae84f1b09e37e6bad3981d2c523d0e1f14fc3a17a0c48cd36"
-
-[[files]]
-file = "config/jei/client/recipe-category-sort-order.ini"
-hash = "4247fafca5c84dceed5264664964c600a219c6559d85d568344a66f7128439dc"
-
-[[files]]
-file = "config/jei/server/world/default/jei-server.ini"
-hash = "d143422ba3144d592e3627874cec2d980f4ce0e3c776bdbd109919dde3c5f4c2"
 
 [[files]]
 file = "config/lightmanscurrency-client.txt"
@@ -1252,10 +1180,6 @@ hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
 [[files]]
 file = "config/voicechat/username-cache.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "d4c1fff2366d13cdf6649e582dd3f6936eb49bec80e685dbc3556d541f81f5df"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
