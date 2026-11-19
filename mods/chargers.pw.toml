@@ -1,0 +1,13 @@
+name = "Chargers"
+filename = "Chargers-1.21.1-7.0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eDFiPATu/versions/GFF2o1L5/Chargers-1.21.1-7.0.0.3.jar"
+hash-format = "sha512"
+hash = "1e0b2bfce1ee45352d1002152ac475cf9eaeb728dc84877558c8068332af73e93e4b3df5a921a2bf295e953a4dbfd0728f175e412a84cd6937d62b92c1c9ae3f"
+
+[update]
+[update.modrinth]
+mod-id = "eDFiPATu"
+version = "GFF2o1L5"

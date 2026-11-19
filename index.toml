@@ -1378,6 +1378,11 @@ hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true
 
 [[files]]
+file = "mods/chargers.pw.toml"
+hash = "5be01ebd19d06d1da007f18a6e699f8882c1b243d1020462b1c5b8ca2a007799"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
