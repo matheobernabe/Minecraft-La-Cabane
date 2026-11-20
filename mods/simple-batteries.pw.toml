@@ -1,0 +1,13 @@
+name = "Simple Batteries"
+filename = "simple_block_batteries-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gyfZ9ZJI/versions/3i1iy680/simple_block_batteries-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "fe8698d0762c372130e5495ca735097f08ee6d6f1fabf90a4946f1236b554b4066963c71796259a6dee85aea8ac09187fe7976b1a86016dd642138d039b8f9ec"
+
+[update]
+[update.modrinth]
+mod-id = "gyfZ9ZJI"
+version = "3i1iy680"

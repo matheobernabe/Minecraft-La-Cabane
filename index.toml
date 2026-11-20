@@ -1473,6 +1473,11 @@ hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "e5052e0fcba9af1e3c6c0734829b441bc5a23012108bf203ca01825ca12ff6b1"
+metafile = true
+
+[[files]]
 file = "mods/createnuclear.pw.toml"
 hash = "8f84b6788d9876ea1d7fa527b667482b6e26bb14af6735c4c79138d164442e68"
 metafile = true
@@ -1880,6 +1885,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "437c739ab4a159273a34ec98a193fe7e26ff0f6d393a6a798b84402f10348646"
+metafile = true
+
+[[files]]
+file = "mods/simple-batteries.pw.toml"
+hash = "97875f5209864519d1aae7273cc6f6b285ea4fe0dbe781b34b63b42b47d32a5c"
 metafile = true
 
 [[files]]
