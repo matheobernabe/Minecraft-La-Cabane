@@ -1,0 +1,13 @@
+name = "Pile of Flint"
+filename = "flintblock-vanilla-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JWhf7hXZ/versions/KOSV582O/flintblock-vanilla-1.0.0.jar"
+hash-format = "sha512"
+hash = "b58b57c85b1be7fadff3c939c25dd2fd3183f2adca3517b608eabfb223c7476760a41ef6b423db2c092bb283faf5336a57b00b05b58db40cb1ed3fe9f915cbe4"
+
+[update]
+[update.modrinth]
+mod-id = "JWhf7hXZ"
+version = "KOSV582O"

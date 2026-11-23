@@ -1583,6 +1583,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/flint-pile.pw.toml"
+hash = "0333cc610989afede6b0cff8c6e689b3512a4a0c7eb49bedeb3ea8f544a9c41e"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "df64ca595f6f0f79e3a4a844fd0a887b44f5e007f5deb9ac011b5cf67b3a2127"
 metafile = true
@@ -1665,6 +1670,11 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
+metafile = true
+
+[[files]]
+file = "mods/lc-tech.pw.toml"
+hash = "080f88eb1f74b14604c3c00af84cee515df4679577929ba9694707c2e86daf9d"
 metafile = true
 
 [[files]]
