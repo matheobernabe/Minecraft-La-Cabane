@@ -1,0 +1,13 @@
+name = "Asymmetric Battles API"
+filename = "asymmetricbattles-neoforge-1.4.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sI88vVWl/versions/sKlBadYU/asymmetricbattles-neoforge-1.4.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "556fce2f120698cf7236b48abb06cc69bbc76febb533d738909fa3fa1bd815ceb3099a1737d8199ea2efbc0df4c59617101b4a2f43b4f60c0d54469842a06316"
+
+[update]
+[update.modrinth]
+mod-id = "sI88vVWl"
+version = "sKlBadYU"

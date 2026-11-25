@@ -1,0 +1,13 @@
+name = "Book of Dragons: Mazon's Almenac"
+filename = "bodaddon-0.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d333396adc6f5af92bd61b09990dca38d61692af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9799373
+project-id = 1815279
