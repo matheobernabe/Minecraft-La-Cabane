@@ -1873,6 +1873,11 @@ hash = "9ea5eb69af8278115237331a30c9692f338c614d4f09479581fc4eaf28312150"
 metafile = true
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "1bdd094dd87876c1dddad59402c13294a3b9efd2362773dcec0b012682378cd9"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "bbf0b89162e5627c13123178ce7034709946dbe9fec9b9d9c068197b55939750"
 metafile = true
@@ -2135,6 +2140,11 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "b66eafdfececfbf620287485b229d72ae613dc4766e23879e590bb8508acfc4a"
+metafile = true
+
+[[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "70f1224ac5fa901ea0d6466d096e80b310c3d1915bb4983e37189e89836de321"
 metafile = true
 
 [[files]]
