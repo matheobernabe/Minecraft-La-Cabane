@@ -1298,11 +1298,6 @@ hash = "846290a7a2b0af86414001d097ddc694b58266f8e9f57e3d381fda3e64e81212"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "610f63e5307e08425185fd73966949506784ec4890ad5c112a5b3d8ea1242482"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "21347d7f9c96cebacb7238dbef2670e2906a11572606016c8184e9485947dacc"
 metafile = true
@@ -2160,11 +2155,6 @@ metafile = true
 [[files]]
 file = "mods/simplycataclysm.pw.toml"
 hash = "4fd1283e3f2e8dad4c3023f8a77cb071086e5ebcc83f022a1cb060f41b18695a"
-metafile = true
-
-[[files]]
-file = "mods/skinrestorer.pw.toml"
-hash = "e092c14ff1fb54dbe0348f76b45b5b721adc99e55ec60f15aa61d37523e4ab15"
 metafile = true
 
 [[files]]
