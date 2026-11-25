@@ -1828,6 +1828,11 @@ hash = "562bc572ab8ffd96ed9b7b354aed4284cd99f8e2ca96d4cf905e9d7349a0f72e"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
+metafile = true
+
+[[files]]
 file = "mods/lc-tech.pw.toml"
 hash = "080f88eb1f74b14604c3c00af84cee515df4679577929ba9694707c2e86daf9d"
 metafile = true
@@ -1884,7 +1889,7 @@ metafile = true
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
+hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
 metafile = true
 
 [[files]]
@@ -2150,6 +2155,11 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "891ad3905947e6742a1bf10fbe098457f6cd487641eff26f6da322600fcf1dcd"
+metafile = true
+
+[[files]]
+file = "mods/simplycataclysm.pw.toml"
+hash = "4fd1283e3f2e8dad4c3023f8a77cb071086e5ebcc83f022a1cb060f41b18695a"
 metafile = true
 
 [[files]]
