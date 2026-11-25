@@ -1369,7 +1369,7 @@ metafile = true
 
 [[files]]
 file = "mods/book-of-dragons.pw.toml"
-hash = "0c7f94f39505c53a13d351eee4fddc5a2330012045f09be334d3d046c184c57e"
+hash = "e5f5668791d341c1c8e70ae1089c07ab2c54d1c53046801d0c6e225f7d9da34d"
 metafile = true
 
 [[files]]
@@ -1694,7 +1694,7 @@ metafile = true
 
 [[files]]
 file = "mods/fauna-engine.pw.toml"
-hash = "280fc090707da26e1fb27a3ac7bfa9ceea8f31998de341b8693b634522172a33"
+hash = "da8a6d955319b922a39c17ebd190679a76d1e12d068fb08eb6b35ddb1ad7a6c3"
 metafile = true
 
 [[files]]
