@@ -1598,11 +1598,6 @@ hash = "eb782f7993af2d30ddab28203fbc9d520d09dd53e36dd624734bfc7e86b34127"
 metafile = true
 
 [[files]]
-file = "mods/dice-renewed.pw.toml"
-hash = "d6848922049eca98794a9cba9710ea13f2381bfbf8c0e96289ca352a6a528b9a"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "0dd55c1a28bf25bca08f9390fa54f330948eb1369ee48b291abdfa44dce2d305"
 metafile = true
@@ -2155,11 +2150,6 @@ metafile = true
 [[files]]
 file = "mods/simplycataclysm.pw.toml"
 hash = "4fd1283e3f2e8dad4c3023f8a77cb071086e5ebcc83f022a1cb060f41b18695a"
-metafile = true
-
-[[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
 metafile = true
 
 [[files]]
