@@ -1523,6 +1523,11 @@ hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
 metafile = true
 
 [[files]]
+file = "mods/cozys-improved-cats.pw.toml"
+hash = "24c058354f01a1c94f7735a374093fc3207f9a91b5665011f224a94c1d109e1a"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "b63999aa63a273098f42e22d8d5018c8617b8e2babdffc752d9aad3eefaaa76d"
 metafile = true
@@ -1823,18 +1828,8 @@ hash = "562bc572ab8ffd96ed9b7b354aed4284cd99f8e2ca96d4cf905e9d7349a0f72e"
 metafile = true
 
 [[files]]
-file = "mods/l_enders-cataclysm.pw.toml"
-hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
-metafile = true
-
-[[files]]
 file = "mods/lc-tech.pw.toml"
 hash = "080f88eb1f74b14604c3c00af84cee515df4679577929ba9694707c2e86daf9d"
-metafile = true
-
-[[files]]
-file = "mods/lendercataclysm.pw.toml"
-hash = "0f04f325e69159d49ef7ad0593d9fa2caaca3825bc519b3d54c253bfcb0ae435"
 metafile = true
 
 [[files]]
@@ -2155,11 +2150,6 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "891ad3905947e6742a1bf10fbe098457f6cd487641eff26f6da322600fcf1dcd"
-metafile = true
-
-[[files]]
-file = "mods/simplycataclysm.pw.toml"
-hash = "4fd1283e3f2e8dad4c3023f8a77cb071086e5ebcc83f022a1cb060f41b18695a"
 metafile = true
 
 [[files]]
