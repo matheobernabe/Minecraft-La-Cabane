@@ -1,0 +1,13 @@
+name = "Brecher's Gym Trainers - Cobblemon"
+filename = "brecher_trainers-3.2.0-1.21.1_neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b728993967ad38cd623fb84501c4f811d8f02c5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9251734
+project-id = 1417287

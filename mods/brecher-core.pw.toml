@@ -1,0 +1,13 @@
+name = "Brecher's Core Libs"
+filename = "brecher_core-0.4.6-1.21.1_neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02c59d7b3e7e7827ad984de12a9d7a3ba9f52459"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9798778
+project-id = 1684080

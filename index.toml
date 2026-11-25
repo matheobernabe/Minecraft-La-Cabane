@@ -1398,6 +1398,16 @@ hash = "ba3b9990bc44bedb8eacbe11b2beffb7457cc6ddd854e78fcaf8d73d8f2578db"
 metafile = true
 
 [[files]]
+file = "mods/brecher-core.pw.toml"
+hash = "85e6bc14abca7ada6bc7fbca0bbc7f9f4520faba37f8c72e28710b19514f259b"
+metafile = true
+
+[[files]]
+file = "mods/brecher-gym-trainers.pw.toml"
+hash = "58db32ee4152ece34d0ba9e791936d947892cc4d536e3fae644b49d0325857a0"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
@@ -1464,7 +1474,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "63338ce7e20f31e1aef44bf82ea0377dc66ae2dfc5724ad4617e5212e09235e0"
+hash = "63b37b2043aef6c0f7196ea849fd0e60b2056933a1b496e9b0eb3f9ba4d14b56"
 metafile = true
 
 [[files]]
@@ -1814,7 +1824,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
+hash = "562bc572ab8ffd96ed9b7b354aed4284cd99f8e2ca96d4cf905e9d7349a0f72e"
 metafile = true
 
 [[files]]
